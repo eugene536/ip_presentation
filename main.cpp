@@ -19,7 +19,7 @@ using namespace std;
 
 namespace {
     // change kPrefixPath before running or create folder `results/`
-    const string kPrefixPath = "./results/";
+    const string kPrefixPath = "";
 
 class ImageWrapper {
 public:
