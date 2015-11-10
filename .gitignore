@@ -1,0 +1,8 @@
+# Temp files
+*#
+*.swp
+*.swo
+*~
+image_analyse/opencv-2.4.11
+all_users
+*.o
